@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on few projects that is very impressive check it out here (https://github.com/nidhi-28-shetty)
-- 🌱 I recently built AI-powered project check it out here (https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
+- 🌱 I recently built AI-powered project check it out here smartAIresume
 - 👯 I’m looking to collaborate on ...
 
 <!--
